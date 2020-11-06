@@ -1,4 +1,3 @@
 <?php
-echo "<h2>IT@KMITL</h2>";
-echo "Hello IT<br>";
+echo "<h2>file:///C:/Users/LAB207/Desktop/www/index3.html</h2>";
 ?>
